@@ -1,28 +1,29 @@
 ---
 layout: page
-title: Research
 permalink: /research/
 ---
 
-### Working Paper
+# Research
+
+## Working Paper
 
 {% for paper in site.data.publications.working_paper %}
  * {{paper.author}} ({{paper.year}}). [{{paper.title}}]({{paper.url}}). submitted to *{{paper.journal}}*.
 {% endfor %}
 
-### Journal
+## Journal
 
 {% for paper in site.data.publications.journal %}
  * {{paper.author}} ({{paper.year}}). [{{paper.title}}]({{paper.pdfurl}}). *{{paper.journal}}*. {{paper.volume}} ({{paper.number}}): {{paper.pages}}. [ScienceDirect]({{paper.url}}).
 {% endfor %}
 
-### Unpublished Manuscript
+## Unpublished Manuscript
 
 {% for paper in site.data.publications.unpublished_manuscript %}
  * {{paper.author}} (last revised in {{paper.year}}). [{{paper.title}}]({{paper.url}}).
 {% endfor %}
 
-### Conference
+## Conference
 
 {% for paper in site.data.publications.conference %}
  * {{paper.month}} {{paper.year}}: [{{paper.title}}]({{paper.url}}). *{{paper.name}}*.
