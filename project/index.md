@@ -8,32 +8,29 @@ Please contact me via [email](mailto:vgalle4@mail.com) for any additional questi
 
 ### Paper referee
 
-* *MIT Sloan Sports Analytics Conference* (2016,2017,2018).
-* *Naval Research Logistics* (2015,2016,2017).
+* *MIT Sloan Sports Analytics Conference* (2016, 2017, 2018).
+* *Naval Research Logistics* (2015, 2016, 2017).
 * *Operations Research* (2016).
 * *Computers & Operations Research* (2016).
-* *IIE Transactions* (2015,2016).
+* *IIE Transactions* (2015, 2016).
 
 ### Scout optimization for the Tampa Bay Rays (2015)
+Team with *A. Li and Z. Owens*.
 
 ### NFL predictions (2015)
-
-PDF report [here](/files/NFLReport.pdf).
+Team with *Z. Owens*, PDF report [here](/files/NFLReport.pdf).
 
 ### Lineup optimization for the Boston Celtics (2014)
+Team with *P. Jaillet*.
 
 ### Soccer World Cup predictions (2014)
-
-PDF report [here](/files/WCPredictions.pdf).
+Team with *L. Rizzo*, PDF report [here](/files/WCPredictions.pdf).
 
 ### Betting optimally on the Soccer World Cup using robust optimization (2014)
-
-PDF report [here](/files/BettingReport.pdf).
+Team with *L. Rizzo*, PDF report [here](/files/BettingReport.pdf).
 
 ### Testing uniformity on the unit sphere (2013)
-
-PDF report [here](/files/StatReport.pdf) (only available in French).
+Team with *A. Pizzut and L. Alain*, PDF report [here](/files/StatReport.pdf) (only available in French).
 
 ### The positive energy building: state of the art technologies and storage optimization (2012)
-
-PDF report [here](/files/PositiveEnergyBuilding.pdf) (only available in French).
+Team with *C. Abou Saab, P. Dutheil, A. El Jaouhari and Y. Tian*, PDF report [here](/files/PositiveEnergyBuilding.pdf) (only available in French).
