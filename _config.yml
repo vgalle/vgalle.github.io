@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Virgile Galle
+tagline:          'PhD'
+description:      'PhD <br> Operations Research Center <br> MIT'
+url:              '/'
+baseurl:          '/'
+keywords:         'Virgile Galle Container Relocation Block Reshuffle Crane Port Optimization'
+
+author:
+  name:           'Virgile Galle'
+  url:
+
+github:
+  repo:           https://github.com/vgalle/
+
+gems:
+  - jekyll-seo-tag
