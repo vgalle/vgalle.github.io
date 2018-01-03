@@ -1,43 +1,79 @@
 working_paper:
 
+- title: "The Yard Crane Scheduling Problem with relocations"
+  author: "V. Galle, C. Barnhart and P. Jaillet"
+  journal: "European Journal of Operational Research"
+  year: "2018"
+  url: "/files/YardCraneScheduling.pdf"
+
 - title: "The Stochastic Container Relocation Problem"
-  author: "V. Galle, S. Borjian, V. Manshadi, C. Barnhart and P. Jaillet"
-  journal: "Transportations Science"
-  volume: ""
-  number: ""
-  pages: ""
-  year: ""
+  author: "V. Galle, V. Manshadi, S. Borjian, C. Barnhart and P. Jaillet"
+  journal: "Transportations Science (minor revision)"
+  year: "2018"
   url: "/files/TheStochasticContainerRelocationProblem.pdf"
 
 journal:
 
-- title: "Reduced models of networks of coupled enzymatic reactions"
-  author: "A. Kumar and K. Josic"
-  journal: "Journal of Theoretical Biology"
-  volume: "278"
-  number: "1"
-  pages: "87-106"
-  year: "2011"
+- title: "A new binary formulation of the restricted container relocation problem based on a binary encoding of configurations"
+  author: "V. Galle, C. Barnhart and P. Jaillet"
+  journal: "European Journal of Operational Research"
+  volume: ""
+  number: ""
+  pages: ""
+  year: "2018"
   publisher: "Elsevier"
-  url: "http://www.sciencedirect.com/science/article/pii/S0022519311001275"
+  url: "https://doi.org/10.1016/j.ejor.2017.11.053"
+  pdfurl: "/files/BinaryFormulation.pdf"
+
+- title: "An average-case asymptotic analysis of Container Relocation Problem"
+  author: "V. Galle, S. Borjian, V. Manshadi, C. Barnhart and P. Jaillet"
+  journal: "Operations Research Letters"
+  volume: "44"
+  number: "6"
+  pages: "723-728"
+  year: "2016"
+  publisher: "Elsevier"
+  url: "http://dx.doi.org/10.1016/j.orl.2016.08.006"
+  pdfurl: "/files/AverageCaseAnalysis.pdf"
 
 unpublished_manuscript:
 
-- title: "Reduced models of networks of coupled enzymatic reactions"
-  author: "A. Kumar and K. Josic"
-  journal: "Journal of Theoretical Biology"
-  volume: "278"
-  number: "1"
-  pages: "87-106"
-  year: "2011"
-  publisher: "Elsevier"
-  url: "http://www.sciencedirect.com/science/article/pii/S0022519311001275"
+- title: "Container Relocation Problem: Approximation, Asymptotic and Incomplete Information"
+  author: "S. Borjian, V. Galle, V. Manshadi, C. Barnhart and P. Jaillet"
+  year: "2015"
+  url: "http://arxiv.org/abs/1505.04229"
+
+- title: "Static and Dynamic Online Stochastic Container Relocation Problem under random permutation"
+  author: "V. Galle, C. Barnhart and P. Jaillet"
+  year: "2015"
+  url: "/files/NoInfo.pdf"
 
 conference:
 
-- title: "Numerical simulation of cricket ball swings using OpenFOAM"
-  author: "A. Kumar"
-  conference: "17th Annual CFD Symposium. National Aerospace Lab. Bangalore. India"
+- title: "The Stochastic Container Relocation Problem: Sampling in Multi-stage Stochastic Optimization with Bounded Cost"
+  name: "INFORMS Annual Meeting, Houston, TX"
+  year: "2017"
+  month: "October"
+  url: "http://www.abstractsonline.com/pp8/\#!/4471/presentation/4694"
+
+- title: "The Stochastic Container Relocation Problem"
+  name: "TSL INFORMS First Triennial Conference, Chicago, IL"
+  year: "2017"
+  month: "August"
+  url: "https://higherlogicdownload.s3.amazonaws.com/INFORMS/75569b9a-b13f-49ed-8f6f-d53eb2c22c33/UploadedImages/Complete%20Program%20Booklet1.pdf"
+
+- title: "Container Relocation Problem with Partial Information"
+  name: "INFORMS Annual Meeting, Philadelphia, PA"
   year: "2015"
-  url:  "http://www.nal.res.in/CFDsympo17/cfdfullpaperfinal/Numerical%20simulation%20of%20cricket%20ball%20swings%20using%20OpenFOAM.pdf"
+  month: "November"
+  url: "https://informs.emeetingsonline.com/emeetings/formbuilder/clustersessiondtl.asp?csnno=24216&mmnno=272&ppnno=91281"
+
+- title: "Efficient Dynamic Programming Approach for the Container Relocation Problem"
+  name: "INFORMS Annual Meeting, San Francisco, CA"
+  year: "2014"
+  month: "November"
+  url: "https://informs.emeetingsonline.com/emeetings/formbuilder/clustersessiondtl.asp?csnno=20836&mmnno=260&ppnno=80465"
+
+
+
 
