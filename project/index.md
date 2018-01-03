@@ -18,19 +18,19 @@ Please contact me via [email](mailto:vgalle4@mail.com) for any additional questi
 Team with *A. Li and Z. Owens*.
 
 ### NFL predictions (2015)
-Team with *Z. Owens*, PDF report [here](/files/NFLReport.pdf).
+Team with *Z. Owens*, [PDF report](/files/NFLReport.pdf).
 
 ### Lineup optimization for the Boston Celtics (2014)
 Team with *P. Jaillet*.
 
 ### Soccer World Cup predictions (2014)
-Team with *L. Rizzo*, PDF report [here](/files/WCPredictions.pdf).
+Team with *L. Rizzo*, [PDF report](/files/WCPredictions.pdf).
 
 ### Betting optimally on the Soccer World Cup using robust optimization (2014)
-Team with *L. Rizzo*, PDF report [here](/files/BettingReport.pdf).
+Team with *L. Rizzo*, [PDF report](/files/BettingReport.pdf).
 
 ### Testing uniformity on the unit sphere (2013)
-Team with *A. Pizzut and L. Alain*, PDF report [here](/files/StatReport.pdf) (only available in French).
+Team with *A. Pizzut and L. Alain*, [PDF report](/files/StatReport.pdf) (only available in French).
 
 ### The positive energy building: state of the art technologies and storage optimization (2012)
-Team with *C. Abou Saab, P. Dutheil, A. El Jaouhari and Y. Tian*, PDF report [here](/files/PositiveEnergyBuilding.pdf) (only available in French).
+Team with *C. Abou Saab, P. Dutheil, A. El Jaouhari and Y. Tian*, [PDF report](/files/PositiveEnergyBuilding.pdf) (only available in French).
