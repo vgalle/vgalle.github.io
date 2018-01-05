@@ -15,10 +15,10 @@ Please contact me via [email](mailto:vgalle4@mail.com) for any additional questi
 * *IIE Transactions* (2015, 2016).
 
 ### Scout optimization for the Tampa Bay Rays (2015)
-Team with *A. Li and Z. Owens*.
+Team with *A. Li and Z. Owen*.
 
 ### NFL predictions (2015)
-Team with *Z. Owens*, [PDF report](/files/NFLReport.pdf).
+Team with *Z. Owen*, [PDF report](/files/NFLReport.pdf).
 
 ### Lineup optimization for the Boston Celtics (2014)
 Team with *P. Jaillet*.
