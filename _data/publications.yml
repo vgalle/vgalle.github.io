@@ -6,13 +6,18 @@ working_paper:
   year: "2018"
   url: "/files/YardCraneScheduling.pdf"
 
+journal:
+
 - title: "The Stochastic Container Relocation Problem"
   author: "V. Galle, V. Manshadi, S. Borjian, C. Barnhart and P. Jaillet"
-  journal: "Transportation Science (minor revision)"
+  journal: "Transportation Science"
+  volume: ""
+  number: ""
+  pages: ""
   year: "2018"
+  publisher: "Informs"
   url: "/files/TheStochasticContainerRelocationProblem.pdf"
-
-journal:
+  pdfurl: "/files/TheStochasticContainerRelocationProblem.pdf"
 
 - title: "A new binary formulation of the restricted container relocation problem based on a binary encoding of configurations"
   author: "V. Galle, C. Barnhart and P. Jaillet"
