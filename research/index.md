@@ -13,7 +13,7 @@ permalink: /research/
 ### Journal
 
 {% for paper in site.data.publications.journal %}
- * {{paper.author}} ({{paper.year}}). [{{paper.title}}]({{paper.pdfurl}}). *{{paper.journal}}*. {{paper.volume}} ({{paper.number}}): {{paper.pages}}. [ScienceDirect]({{paper.url}}).
+ * {{paper.author}} ({{paper.year}}). [{{paper.title}}]({{paper.pdfurl}}). *{{paper.journal}}*. {{paper.volume}} ({{paper.number}}): {{paper.pages}}. [Journal Link]({{paper.url}}).
 {% endfor %}
 
 ### Unpublished Manuscript
