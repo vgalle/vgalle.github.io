@@ -22,15 +22,17 @@ src="//c.statcounter.com/11465513/0/05cf2bcb/1/" alt="Web
 Analytics Made Easy - StatCounter"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
+<h3>New Position</h3>
+Quantitative Analyst in BP Analytics Group (Houston, TX).
+
 <h3>Doctoral Thesis</h3>
 <ul>
-  <li>Title: <em>Optimization Models and Methods for Storage Yard Operations in Maritime Container Terminals</em>.</li>
+  <li>Title: <a href="/files/Thesis.pdf"><em>Optimization Models and Methods for Storage Yard Operations in Maritime Container Terminals</em>.</a></li>
   <li>Advisors: <a href="http://cee.mit.edu/barnhart">C. Barnhart</a> (MIT Chancellor) and <a href="http://web.mit.edu/jaillet/www/">P. Jaillet</a> (MIT ORC Co-Director).</li>
   <li>Thesis committee members: <a href="http://www.mit.edu/~jvielma/">J. P. Vielma</a> (MIT Sloan) and <a href="http://www.mit.edu/~manshadi/">V. Manshadi</a> (Yale Business School).</li>
  </ul>
 
- <h3>Expected graduation date: <em>February 2018</em></h3>
-
+ <h3>Graduation date: <em>February 2018</em></h3>
 
 <h3>Interests</h3>
 <ul>
