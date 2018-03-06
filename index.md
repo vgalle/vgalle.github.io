@@ -23,7 +23,7 @@ Analytics Made Easy - StatCounter"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
 <h3>New Position</h3>
-Quantitative Analyst in BP Analytics Group (Houston, TX).
+Quantitative Analyst in BP America, Integrated Supply and Trading (Houston, TX).
 
 <h3>Doctoral Thesis</h3>
 <ul>
