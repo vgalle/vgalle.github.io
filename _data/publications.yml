@@ -1,12 +1,17 @@
 working_paper:
 
+journal:
+
 - title: "Yard Crane Scheduling for container storage, retrieval, and relocation"
   author: "V. Galle, C. Barnhart and P. Jaillet"
   journal: "European Journal of Operational Research"
+  volume: ""
+  number: ""
+  pages: ""
   year: "2018"
+  publisher: "Informs"
   url: "/files/YardCraneScheduling.pdf"
-
-journal:
+  pdfurl: "/files/YardCraneScheduling.pdf"
 
 - title: "The Stochastic Container Relocation Problem"
   author: "V. Galle, V. Manshadi, S. Borjian, C. Barnhart and P. Jaillet"
