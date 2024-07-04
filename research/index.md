@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-### Working Paper
+### Article
 
-{% for paper in site.data.publications.working_paper %}
+{% for paper in site.data.publications.article %}
  * {{paper.author}} ({{paper.year}}). [{{paper.title}}]({{paper.url}}). submitted to *{{paper.journal}}*.
 {% endfor %}
 
