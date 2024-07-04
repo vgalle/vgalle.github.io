@@ -22,25 +22,17 @@ src="//c.statcounter.com/11465513/0/05cf2bcb/1/" alt="Web
 Analytics Made Easy - StatCounter"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
-<h3>New Position</h3>
-Quantitative Analyst in BP America, Integrated Supply and Trading (Houston, TX).
+<h3>Current Position</h3>
+Software Engineer in <a href="https://research.google/teams/operations-research/">Operations Research at Google Research</a> (France).
 
-<h3>Doctoral Thesis</h3>
-<ul>
-  <li>Title: <a href="/files/Thesis.pdf"><em>Optimization Models and Methods for Storage Yard Operations in Maritime Container Terminals</em>.</a></li>
-  <li>Advisors: <a href="http://cee.mit.edu/barnhart">C. Barnhart</a> (MIT Chancellor) and <a href="http://web.mit.edu/jaillet/www/">P. Jaillet</a> (MIT ORC Co-Director).</li>
-  <li>Thesis committee members: <a href="http://www.mit.edu/~jvielma/">J. P. Vielma</a> (MIT Sloan) and <a href="http://www.mit.edu/~manshadi/">V. Manshadi</a> (Yale Business School).</li>
- </ul>
-
- <h3>Graduation date: <em>February 2018</em></h3>
+<h3>Previous Position</h3>
+Senior Quantitative Analyst at <a href="https://www.bp.com/en_us/united-states/home/what-we-do/trading-and-shipping.html">BP, Integrated Supply and Trading</a> (New York, NY).
 
 <h3>Interests</h3>
 <ul>
   <li>Mathematical modeling and combinatorial optimization.</li>
+  <li>Software Engineering.</li>
   <li>Machine learning.</li>
-  <li>Application in transportation logistics, scheduling, queuing theory and sports analytics.</li>
+  <li>Application in transportation logistics, scheduling, energy, queuing theory and sports analytics.</li>
  </ul>
-
-<h3>Current status</h3>
-Post-completion OPT with F-1 visa.
 

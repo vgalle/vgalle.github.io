@@ -14,6 +14,10 @@ permalink: /about/
 
 ### Work Experience
 
+* *Senior Quantitative Analyst, Integrated Supply and Trading*, [BP](https://www.bp.com/en_us/united-states/home/what-we-do/trading-and-shipping.html), New York, NY, (2022-2022).
+
+* *Quantitative Analyst, Integrated Supply and Trading*, [BP](https://www.bp.com/en_us/united-states/home/what-we-do/trading-and-shipping.html), New York, NY and Houston, TX, (2018-2022).
+
 * *Research Assistant, Operations Research Center*, [Massachusetts Institute of Technology](http://www.mit.edu/~orc/), Cambridge, MA, (2013-2018).
 
 * *Research Scientist Intern, Mathematics and modeling*, [Schlumberger](http://www.slb.com/about/rd/research/sdr.aspx), Doll Research Center, Cambridge, MA, (2016).
